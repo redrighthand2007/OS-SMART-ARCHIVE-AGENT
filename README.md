@@ -188,10 +188,6 @@ python3 examples/agentic_shell_example.py    # a tiny pretend shell: loads the a
 
 ## Use (for anyone)
 
-> **Demonstrating the agent on a laptop or lab PC?** Follow **[SHOWCASE.md](SHOWCASE.md)**: setup from scratch and a 3-minute demo script.
->
-> **Recording the demo video?** Run `bash demo/setup_demo.sh` (creates real sample files in `~/demo`), then follow **[demo/VIDEO_SCRIPT.md](demo/VIDEO_SCRIPT.md)**.
-
 From a clone of this repository (or use `smart-archive-agent` in place of `python3 -m smart_archive_agent`
 after `pip install`):
 
@@ -286,12 +282,14 @@ Full numbers are in [`benchmarks/results.json`](benchmarks/results.json).
 
 ## Review reports
 
-| Report | Contents | Files |
-| :--- | :--- | :---: |
-| Review 1 | Introduction, literature review | [DOCX](docs/Review_1_Smart_Archive_Agent.docx) \| [PDF](docs/Review_1_Smart_Archive_Agent.pdf) |
-| Review 2 | Architecture and design, implementation methodology | [DOCX](docs/Review_2_Smart_Archive_Agent.docx) \| [PDF](docs/Review_2_Smart_Archive_Agent.pdf) |
-| Review 3 | Testing and results, conclusion and future scope, screenshots | [DOCX](docs/Review_3_Smart_Archive_Agent.docx) \| [PDF](docs/Review_3_Smart_Archive_Agent.pdf) |
-| **Reviews 1–3 combined** | Final submission: Review 1 → Review 2 → Review 3 in one file | [DOCX](docs/Team12_Smart_Archive_Agent_Reviews_1-3.docx) \| [PDF](docs/Team12_Smart_Archive_Agent_Reviews_1-3.pdf) |
+All three reviews are in one document, in the order Review 1 → Review 2 → Review 3:
+[PDF](docs/Team12_Smart_Archive_Agent_Reviews_1-3.pdf) | [DOCX](docs/Team12_Smart_Archive_Agent_Reviews_1-3.docx)
+
+| Review | Contents |
+| :--- | :--- |
+| Review 1 | Introduction, literature review |
+| Review 2 | Architecture and design, implementation methodology |
+| Review 3 | Testing and results, conclusion and future scope, screenshots |
 
 ---
 
