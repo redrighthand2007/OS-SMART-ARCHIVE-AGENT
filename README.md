@@ -189,6 +189,8 @@ python3 examples/agentic_shell_example.py    # a tiny pretend shell: loads the a
 ## Use (for anyone)
 
 > **Demonstrating the agent on a laptop or lab PC?** Follow **[SHOWCASE.md](SHOWCASE.md)**: setup from scratch and a 3-minute demo script.
+>
+> **Recording the demo video?** Run `bash demo/setup_demo.sh` (creates real sample files in `~/demo`), then follow **[demo/VIDEO_SCRIPT.md](demo/VIDEO_SCRIPT.md)**.
 
 From a clone of this repository (or use `smart-archive-agent` in place of `python3 -m smart_archive_agent`
 after `pip install`):
